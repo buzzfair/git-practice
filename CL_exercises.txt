@@ -1,0 +1,7 @@
+cd Desktop
+mkdir Level1
+cd Level1
+mkdir Level1A
+mkdir Level1B
+cd Level1A
+touch Doc1.txt
